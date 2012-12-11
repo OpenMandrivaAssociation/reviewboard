@@ -70,3 +70,10 @@ chmod +x $RPM_BUILD_ROOT/%{python_sitelib}/reviewboard/manage.py
 %clean
 rm -rf $RPM_BUILD_ROOT
 
+
+
+%changelog
+* Sun Nov 07 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 1.5-1mdv2011.0
++ Revision: 594407
+- import reviewboard
+
