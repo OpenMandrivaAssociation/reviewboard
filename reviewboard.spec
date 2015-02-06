@@ -2,7 +2,7 @@
 
 Name:           reviewboard
 Version:        1.5
-Release:        %mkrel 1
+Release:        2
 Summary:        Web-based code review tool
 Group:          Networking/WWW
 License:        MIT
