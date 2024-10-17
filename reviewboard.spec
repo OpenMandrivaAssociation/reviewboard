@@ -6,7 +6,7 @@ Release:        2
 Summary:        Web-based code review tool
 Group:          Networking/WWW
 License:        MIT
-URL:            http://www.review-board.org
+URL:            https://www.review-board.org
 Source0:        http://downloads.review-board.org/releases/%{name}/1.5/%{oname}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 BuildArch:      noarch
